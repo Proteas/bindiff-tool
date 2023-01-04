@@ -3,7 +3,7 @@ When do `BinDiff`ing, most of the time, the results are noisy.
 
 ## Solution
 `bindiff-tool` is an assistant for `BinDiff`, <br/>
-with this tool, you can use `js` to program `BinDiff` results:
+with this tool, you can use `js` to program `BinDiff` results partially:
 1. Filter `BinDiff` results.
 2. Identity N-Day fixes.
 3. By imagination.
