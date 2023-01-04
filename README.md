@@ -44,3 +44,6 @@ bindiff-tool --v1 V1.BinExport --v2 V2.BinExport --diff V1_vs_V2.BinDiff --js Fi
 3. [AppleAVD.js](./js/AppleAVD.js)
 4. [common.js](./js/common.js)
 5. [kernel.js](./js/kernel.js)
+
+## Limitation
+* `macOS` only. :(
